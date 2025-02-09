@@ -1,4 +1,4 @@
-theme = Everforest Dark - Hard
+theme = light:everforest-light,dark:Everforest Dark - Hard
 font-family = JetBrainsMonoNL NFM SemiBold
 font-size = 16.25
 background-opacity = 0.95
